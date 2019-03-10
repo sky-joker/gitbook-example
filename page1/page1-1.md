@@ -41,3 +41,5 @@ if __name__ == "__main__":
 
 [https://gist.github.com/sky-joker/816e3d49d6166fb2d3edb08c212318cc](https://gist.github.com/sky-joker/816e3d49d6166fb2d3edb08c212318cc)
 
+<script src="https://gist.github.com/sky-joker/816e3d49d6166fb2d3edb08c212318cc.js"></script>
+
