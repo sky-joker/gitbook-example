@@ -2,7 +2,7 @@
 
 ## Use headings to create page groups like this one
 
-* [First page's title](page1/README.md)
+* [1ページタイトル](page1/README.md)
     * [Some child page](page1/page1-1.md)
 * [Second page's title](page2/README.md)
     * [Some child page](page2/page2-1.md)
