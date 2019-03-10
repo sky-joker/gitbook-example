@@ -32,3 +32,5 @@ if __name__ == "__main__":
 > ああああ
 >> いいいい
 
+![](https://getvectorlogo.com/wp-content/uploads/2019/01/red-hat-ansible-tower-vector-logo.png)
+
