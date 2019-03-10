@@ -4,7 +4,10 @@ page1-1
 
 ## hogehoge
 
-hoge
+hoge  
+fuga
+
+*ボールド*
 
 ## 日本語見出し2
 
